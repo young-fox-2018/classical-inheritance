@@ -75,5 +75,8 @@ console.log(fox)
 console.log(duck)
 console.log("")
 
+//macam hewan chimpanzee,frog,fox,chicken,duck
+//macam super power : use_laser_vision(), be_invisible(), superpunch(), fly()
+//cara penggunaan: panggil <hewan>.superpower.<macam superpower>
 fox.superpower.use_laser_vision()
 duck.superpower.fly()
